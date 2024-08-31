@@ -15,4 +15,4 @@ I've always been passionate about data, a drive that guided me through earning a
 ## Certifications
 <a href= "https://www.credly.com/badges/b7a9c494-3b68-4d45-b5b7-9b97ffe54f3a/linked_in_profile"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /></a>
 
-<a href= "https://www.credly.com/badges/3cbb7399-733f-455c-a60e-c483f6e29637/linked_in_profile"><img src="https://img.shields.io/badge/-CC-006400?&style=for-the-badge&logoColor=white" /></a>
+<a href= "https://www.credly.com/badges/3cbb7399-733f-455c-a60e-c483f6e29637/linked_in_profile"><img src="https://img.shields.io/badge/-Certified in Cybersecurity-006400?&style=for-the-badge&logoColor=white" /></a>
