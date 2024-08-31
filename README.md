@@ -3,7 +3,7 @@
 
 I'm
 
-## Skills
+## Skills & Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
