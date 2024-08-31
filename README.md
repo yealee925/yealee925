@@ -14,7 +14,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 | Brute Force & Privilege Escalation        | <a href="https://github.com/yealee925/Exploiting-NFS">Exploiting NFS</a>|
 
 ## Certifications
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <a href= "https://www.credly.com/badges/b7a9c494-3b68-4d45-b5b7-9b97ffe54f3a/linked_in_profile">
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a href= "https://www.credly.com/badges/b7a9c494-3b68-4d45-b5b7-9b97ffe54f3a/linked_in_profile">
 
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
