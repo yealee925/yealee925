@@ -1,7 +1,7 @@
 # Hello, I'm YeaJi Lee
 <a href="https://linkedin.com/in/yeaji-lee-423b8220a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I've always been passionate about data, a drive that guided me through earning a B.S. in Biological Sciences and a B.A. in Psychology. In college, handling confidential information sparked a keen interest in data security. This led me to delve deeply into cybersecurity, where I learned foundational principles and earned relevant certifications. I have hands-on experience with various cybersecurity tools and techniques, including vulnerability exploitation and using Burp Suite, which has further strengthened my expertise in the field.
+I've always been passionate about data, a drive that guided me through earning a B.S. in Biological Sciences and a B.A. in Psychology. In college, handling confidential information through previous positions sparked a keen interest in data security. This led me to delve deeply into cybersecurity, where I learned foundational principles and earned relevant certifications. I have hands-on experience with various cybersecurity tools and techniques, including vulnerability exploitation and using Burp Suite, which has further strengthened my expertise in the field.
 
 ## Projects
 
