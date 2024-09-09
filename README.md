@@ -8,7 +8,8 @@ During college, I gained a passion for data, developing my problem-solving skill
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Burp Suite & Web App Vulnerabilties  | <a href="https://github.com/yealee925/OWASP-Juice-Shop">OWASP Juice Shop</a>|
+| SIEM Implementation and Log Analysis |<a href="https://github.com/yealee925/SOC-Analyst/tree/main/SIEM">Splunk Projects</a>|
+Burp Suite & Web App Vulnerabilties  | <a href="https://github.com/yealee925/OWASP-Juice-Shop">OWASP Juice Shop</a>|
 | Metasploit & John the Ripper | <a href="https://github.com/yealee925/Exploiting-MySQL">Exploiting MySQL</a>|
 | Brute Force & Privilege Escalation        | <a href="https://github.com/yealee925/Exploiting-NFS">Exploiting NFS</a>|
 | SQL & Tableau       | <a href="https://www.kaggle.com/code/yealee/covid-19-impact-on-moviegoing-sql-tableau">COVID-19 Impact on Moviegoing</a>|
